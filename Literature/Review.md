@@ -33,3 +33,14 @@ Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860386/
 Description:
 - Diagnoses most commonly reported as predictive of recidivism include those related to the respiratory system, traumatic injuries,
   and pain (particularly chest and abdominal pain).
+
+#### Characterization of high healthcare utilizer groups using administrative data from an electronic medical record database
+
+Link: https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4239-2#:~:text=High%20utilizers%20(HUs)%20are%20a,to%20their%20elevated%20resource%20use.
+
+Description:
+- Selected the first visit for each patient between a universial time A and time B extending to a year out as the feature space for each patient
+- Classified frequent users as 90% percentile users
+- "Diagnosis codes were aggregated into Clinical Classification Software (CCS) groups for ease of reporting"
+  - https://hcup-us.ahrq.gov/
+    
