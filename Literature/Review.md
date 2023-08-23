@@ -45,11 +45,15 @@ Description:
   - https://hcup-us.ahrq.gov/
 
 
+https://elicit.org/search?q=classification+of+frequent+ed+users&token=01H8HJ0RNSDKQTXCDBGPVNE89N&paper=2b22e6cfbf648bbd76790ffb92ee09117363d689&column=title 
+
+
 
 Common Analyses:
 - T test
 - Chi square
 - Bivariate analysis
 - Log regression
+- latent class analysis, a probability-based model
 - Odds Ratios
     
