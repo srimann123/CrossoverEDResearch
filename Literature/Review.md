@@ -43,4 +43,13 @@ Description:
 - Classified frequent users as 90% percentile users
 - "Diagnosis codes were aggregated into Clinical Classification Software (CCS) groups for ease of reporting"
   - https://hcup-us.ahrq.gov/
+
+
+
+Common Analyses:
+- T test
+- Chi square
+- Bivariate analysis
+- Log regression
+- Odds Ratios
     
