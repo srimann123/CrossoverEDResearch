@@ -8,4 +8,5 @@ Ultimately, we decided to categorize frequent users as patients who utilized ED 
 
 System Inputs and Outputs:
 
+Outputs: A binary indicator where 1 represents that the input translates to a frequent ED user and 0 translates to an infrequent user.
 
